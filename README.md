@@ -53,7 +53,7 @@ Learning how to think as a web developer is learning how to be an expert in prob
 1. Google! In English, type in the error message if there is one, search within the language you're using (ie CSS, JavaScript etc).
 2. Ask your code buddies in your Company.
 3. Ask your fellow students in Slack.
-4. Ask Damien. Please note: we are part of a sharing community - share the answer with your fellows.
+4. Ask your coach. Please note: we are part of a sharing community - share the answer with your fellows.
 
 ---
 
