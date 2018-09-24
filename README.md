@@ -41,6 +41,7 @@ When you are finished you should have a listing that looks like the sketch above
 
 ### :books: Reading List
 
+* [Components and props](https://reactjs.org/docs/components-and-props.html)
 * [List and Keys in React](https://reactjs.org/docs/lists-and-keys.html)
 * [React Components](https://reactjs.org/docs/react-component.html)
 
